@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mrohr/scripts/emoji/emoji'
+let g:netrw_dirhist_2='/Users/mrohr/Documents/SX/uat3-configs'
+let g:netrw_dirhist_3='/Users/mrohr/Documents/SX/gulp-udm/gulp'
+let g:netrw_dirhist_4='/Users/mrohr/Documents/SX/gulp-udm/libs/angular'
+let g:netrw_dirhist_5='/Users/mrohr/Documents/SX/gulp-udm/gulp'
+let g:netrw_dirhist_6='/Users/mrohr/Documents/SX/gulp-udm'
+let g:netrw_dirhist_7='/Users/mrohr/Documents/SX/udm-fe/bower_components'
